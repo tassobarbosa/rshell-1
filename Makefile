@@ -1,5 +1,5 @@
 cmp = "g++"
-flag = -Wall -Werror
+flag = -Wall -Werror -ansi -pedantic
 
 
 all:
