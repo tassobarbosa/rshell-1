@@ -42,7 +42,12 @@ exec.script
 How to run file
 ------------
 
-Bugs
+1. Clone the directory
+2. cd rshell
+3. Run make
+4. Run bin/rshell
+
+Known Bugs
 ---
 
 
